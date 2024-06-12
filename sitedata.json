@@ -1,0 +1,20 @@
+
+{
+"bancos": {
+        "Santander": {
+        "nombre": "Santander",
+        "saldo": 1000,
+        "token": "token1"
+        },
+        "Entre Rios": {
+        "nombre": "Entre Rios",
+        "saldo": 2000,
+        "token": "token2"
+        },
+        "BBVA": {
+        "nombre": "BBVA",
+        "saldo": 2000,
+        "token": "token3"
+        }
+}
+}
